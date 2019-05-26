@@ -1,0 +1,2 @@
+1. Saving current state (points, current board state, turn) at exit | --.--.----
+2. Draw which player is commencing first round | --.--.----

@@ -1,0 +1,8 @@
+TicTacToe Game v1.0 | Creation date: 03.08.2018
+
+- Buttons displaying Xs and Os
+- Cannot overwrite already clicked button
+
+v1.01 || 05.08.2018
+- Winning game changes buttons' colors
+- After winning condition all buttons are disabled
